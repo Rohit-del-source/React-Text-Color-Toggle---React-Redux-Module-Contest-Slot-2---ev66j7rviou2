@@ -1,8 +1,16 @@
 /* code here  */
 .redColor{
-
+    color: red;
+    font-size: 30px;
+    font-style: normal;
 }
 
 .blueColor{
-
+    color: blue;
+    font-size: 30px;
+    font-style: italic;
+}
+.color{
+    text-align: center;
+    margin-top: 50px;
 }
